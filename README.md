@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://github.com/nazrul-cmd">
+  <a href="https://github.com/nazrulislam-CSE">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Laravel%20%7C%20Livewire%20%7C%20React%20%7C%20Next.js;Tailwind%20CSS%20%7C%20Bootstrap;Let%27s%20build%20something%20awesome!&center=true&width=500&height=45" alt="Typing SVG"/>
   </a>
 </p>
