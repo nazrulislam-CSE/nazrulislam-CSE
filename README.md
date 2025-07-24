@@ -245,7 +245,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam-CSE&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam-CSE"
     alt="nazrulislam-CSE"
   />
 </p>
