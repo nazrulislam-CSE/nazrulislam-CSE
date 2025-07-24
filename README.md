@@ -226,29 +226,28 @@
   
 </p>
 
-<p>
+<p align="center">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulislam-CSE&show_icons=true&locale=en&layout=compact"
-    alt="nazrulislam-CSE"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulislam-CSE&show_icons=true&locale=en&layout=compact&theme=radical"
+    alt="Top Languages"
+    width="45%"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nazrulislam-CSE&show_icons=true&locale=en&theme=radical"
+    alt="GitHub Stats"
+    width="50%"
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=nazrulislam-CSE&show_icons=true&locale=en"
-    alt="nazrulislam-CSE"
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam-CSE&theme=radical"
+    alt="GitHub Streak"
+    width="98%"
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam-CSE"
-    alt="nazrulislam-CSE"
-  />
-</p>
 
 
 ---
