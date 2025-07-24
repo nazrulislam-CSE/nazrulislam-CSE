@@ -250,9 +250,28 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazrulislam-CSE&layout=compact&langs_count=6&theme=radical" alt="Top Languages" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nazrulislam-CSE&show_icons=true&count_private=true&theme=radical&hide=issues" alt="GitHub Stats" width="400" height="200"/>
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulislam-CSE&show_icons=true&locale=en&layout=compact"
+    alt="nazrulislam-CSE"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=nazrulislam-CSE&show_icons=true&locale=en"
+    alt="nazrulislam-CSE"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam-CSE&"
+    alt="nazrulislam-CSE"
+  />
 </p>
 
 
@@ -260,11 +279,24 @@
 
 ### 🌐 Let's Connect
 
-<p align="center"> <a href="https://snazrul.speakupbd.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:nsuzon02@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/nazrul-islam-a9011b232/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/nazrulislam-CSE"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>  <a href="https://api.whatsapp.com/send?phone=8801783465103&text=Hello" target="blank"
-    ><img
-      align="center"
-      src="https://static.whatsapp.net/rsrc.php/v3/yz/r/ujTY9i_Jhs1.png"
-      alt="8801783465103"
-      height="30"
-      width="30"
-  /></a></p>
+<p align="center"> 
+  <a href="https://snazrul.speakupbd.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a> 
+  
+  <a href="mailto:nsuzon02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/nazrul-islam-a9011b232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  
+  <a href="https://github.com/nazrulislam-CSE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>  
+
+  <a href="https://api.whatsapp.com/send?phone=8801783465103&text=Hello%2C%20I%20visited%20your%20GitHub%20profile!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</p>
